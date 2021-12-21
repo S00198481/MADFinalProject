@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/drawable/style_circular_button_blue.xml" value="0.2703125" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/drawable/style_circular_button_green.xml" value="0.2703125" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/drawable/style_circular_button_red.xml" value="0.2703125" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/drawable/style_circular_button_score.xml" value="0.2703125" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/drawable/style_circular_button_yellow.xml" value="0.3896484375" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/layout-land/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/layout/activity_game_over.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/layout/activity_high_scores.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciant/AndroidStudioProjects/GameProject/app/src/main/res/layout/activity_play_screen.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
